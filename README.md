@@ -1,2 +1,2 @@
 # GuessingGame
-A simple Guessing Game using MySQL and PHP.
+A simple Guessing Game using sessions in PHP and html
